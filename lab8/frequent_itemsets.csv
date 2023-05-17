@@ -1,0 +1,32 @@
+support,itemsets,length
+0.05246568378240976,frozenset({'beef'}),1
+0.08052872394509406,frozenset({'bottled beer'}),1
+0.11052364006100661,frozenset({'bottled water'}),1
+0.06487036095577021,frozenset({'brown bread'}),1
+0.05541433655312659,frozenset({'butter'}),1
+0.07768174885612608,frozenset({'canned beer'}),1
+0.08276563294356888,frozenset({'citrus fruit'}),1
+0.05805795627859685,frozenset({'coffee'}),1
+0.05327910523640061,frozenset({'curd'}),1
+0.06344687341128623,frozenset({'domestic eggs'}),1
+0.058973055414336555,frozenset({'frankfurter'}),1
+0.0722928317234367,frozenset({'fruit/vegetable juice'}),1
+0.05856634468734113,frozenset({'margarine'}),1
+0.05236400610066091,frozenset({'napkins'}),1
+0.07981698017285206,frozenset({'newspapers'}),1
+0.1934926283680732,frozenset({'other vegetables'}),1
+0.08896797153024912,frozenset({'pastry'}),1
+0.07564819522114896,frozenset({'pip fruit'}),1
+0.05765124555160142,frozenset({'pork'}),1
+0.18393492628368074,frozenset({'rolls/buns'}),1
+0.10899847483477376,frozenset({'root vegetables'}),1
+0.09395017793594305,frozenset({'sausage'}),1
+0.09852567361464158,frozenset({'shopping bags'}),1
+0.17437722419928825,frozenset({'soda'}),1
+0.10493136756481952,frozenset({'tropical fruit'}),1
+0.07168276563294357,frozenset({'whipped/sour cream'}),1
+0.25551601423487547,frozenset({'whole milk'}),1
+0.13950177935943062,frozenset({'yogurt'}),1
+0.07483477376715811,"frozenset({'other vegetables', 'whole milk'})",2
+0.05663446873411286,"frozenset({'rolls/buns', 'whole milk'})",2
+0.05602440264361973,"frozenset({'yogurt', 'whole milk'})",2
